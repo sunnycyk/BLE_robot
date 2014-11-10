@@ -1,7 +1,7 @@
 BLE_robot
 =========
 
-Arduino compatible program for [RedBearLab BLE Nano](http://redbearlab.com/blenano/) for controlling [Rapiro](www.rapiro.com) with other BLE Device(e.g. mobile device)
+Arduino compatible program for [RedBearLab BLE Nano](http://redbearlab.com/blenano/) for controlling [Rapiro](http://www.rapiro.com) with other BLE Device(e.g. mobile device)
 
 UUID Setting
 ============
